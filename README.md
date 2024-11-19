@@ -5,7 +5,7 @@ Code for paper [link](https://www.researchgate.net/publication/381114144_A_Test_
 ### Description of the files
 
 - `00_asking_OpenAI.ipynb`: Make questions to OpenAI API.
-- `01_auto_runing_codeAnswers.ipynb`: Execute code given by LLMs accordint to programming language.
+- `01_auto_runing_codeAnswers.ipynb`: Execute code given by LLMs according to programming language.
 - `02_correctness_test.ipynb`: Measure and plot the correctness of the answers.
 - `03_Timeseries_LLM_experiments.ipynb`: Runs experiments with TimeGPT and Chronos.
 - `04_Lag_Llama_experimentation.ipynb`: Runs experiments with Lag-Llama. Code executed in Google Colab.
